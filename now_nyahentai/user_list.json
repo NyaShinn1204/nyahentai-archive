@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "alpha@@nyahentai.re",      // Yes, Username is Valid
+        "url": "https://nyahentai.re",
+        "description": "",
+        "link": "https://nyahentai.re/author/alphare-hentai-com/",
+        "slug": "alphare-hentai-com",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/02bd99800c4d4b6e40f41b8d45b447f78d663b8d02840964e498a72237e2f9df?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/02bd99800c4d4b6e40f41b8d45b447f78d663b8d02840964e498a72237e2f9df?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/02bd99800c4d4b6e40f41b8d45b447f78d663b8d02840964e498a72237e2f9df?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "yoast_head": null,
+        "yoast_head_json": null,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://nyahentai.re/wp-json/wp/v2/users/1",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://nyahentai.re/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "nyahentai",                 // No, Username is Invalid
+        "url": "",
+        "description": "",
+        "link": "https://nyahentai.re/author/bravore-hentai-com/",
+        "slug": "bravore-hentai-com",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/fa3392d9c6c94197a1f4aad65ec95f187f07fe67e823eabf39c6298d477b805f?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/fa3392d9c6c94197a1f4aad65ec95f187f07fe67e823eabf39c6298d477b805f?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/fa3392d9c6c94197a1f4aad65ec95f187f07fe67e823eabf39c6298d477b805f?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "yoast_head": null,
+        "yoast_head_json": null,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://nyahentai.re/wp-json/wp/v2/users/2",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://nyahentai.re/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    }
+]

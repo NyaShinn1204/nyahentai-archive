@@ -1,0 +1,2 @@
+https://nyahentai.re/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70
+https://nyahentai.re/wp-content/plugins/favorites/assets/js/favorites.min.js?ver=2.3.6
